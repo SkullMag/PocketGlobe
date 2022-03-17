@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  EARTH-GLOBE
+
+  Created by Oleg Rybalko on 17.09.17.
+  Copyright © 2017 Oleg Rybalko. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Globe";

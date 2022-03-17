@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Press \"Add Globe\" button to add a globe into your space"; ObjectID = "6jt-zM-FRJ"; */
+"6jt-zM-FRJ.text" = "Нажмите на кнопку с иконкой для добавления глобуса в пространство";
+
+/* Class = "UIButton"; normalTitle = "Normal"; ObjectID = "BHj-lz-Btb"; */
+"BHj-lz-Btb.normalTitle" = "Нормальный";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Fs6-eQ-XNM"; */
+"Fs6-eQ-XNM.normalTitle" = "Далее";
+
+/* Class = "UIButton"; normalTitle = "Small"; ObjectID = "G0X-It-7aD"; */
+"G0X-It-7aD.normalTitle" = "Маленький";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "MMm-EK-Xza"; */
+"MMm-EK-Xza.normalTitle" = "Готово";
+
+/* Class = "UIButton"; normalTitle = "Set Size"; ObjectID = "Mm4-13-YDd"; */
+"Mm4-13-YDd.normalTitle" = "Установить размер";
+
+/* Class = "UIButton"; normalTitle = "Add a Globe"; ObjectID = "Rwi-xC-IKg"; */
+"Rwi-xC-IKg.normalTitle" = "Добавить глобус";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "T3n-ab-cjM"; */
+"T3n-ab-cjM.normalTitle" = "Далее";
+
+/* Class = "UILabel"; text = "Pocket Globe"; ObjectID = "Tgo-pO-VNv"; */
+"Tgo-pO-VNv.text" = "Карманный глобус";
+
+/* Class = "UILabel"; text = "Also you can set size of your globe by pressing \"Set Size\" button"; ObjectID = "XSf-ut-CkJ"; */
+"XSf-ut-CkJ.text" = "Вы можете установить размер глобуса передвигая слайдер";
+
+/* Class = "UILabel"; text = "Pocket Globe"; ObjectID = "fNS-7c-7nl"; */
+"fNS-7c-7nl.text" = "Карманный глобус";
+
+/* Class = "UILabel"; text = "Pocket Globe"; ObjectID = "iKy-AG-dSU"; */
+"iKy-AG-dSU.text" = "Карманный глобус";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "ioP-ch-aIS"; */
+"ioP-ch-aIS.normalTitle" = "Начать";
+
+/* Class = "UIButton"; normalTitle = "Big"; ObjectID = "vg8-Yy-Q0E"; */
+"vg8-Yy-Q0E.normalTitle" = "Большой";
+
+/* Class = "UILabel"; text = "A globe in your pocket"; ObjectID = "yCS-bh-vIf"; */
+"yCS-bh-vIf.text" = "Глобус в вашем кармане";

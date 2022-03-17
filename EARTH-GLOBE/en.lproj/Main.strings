@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Press \"Add Globe\" button to add a globe to your space"; ObjectID = "6jt-zM-FRJ"; */
+"6jt-zM-FRJ.text" = "Press \"Add Globe\" button to add a globe to your space";
+
+/* Class = "UIButton"; normalTitle = "Normal"; ObjectID = "BHj-lz-Btb"; */
+"BHj-lz-Btb.normalTitle" = "Normal";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Fs6-eQ-XNM"; */
+"Fs6-eQ-XNM.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Small"; ObjectID = "G0X-It-7aD"; */
+"G0X-It-7aD.normalTitle" = "Small";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "MMm-EK-Xza"; */
+"MMm-EK-Xza.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Set Size"; ObjectID = "Mm4-13-YDd"; */
+"Mm4-13-YDd.normalTitle" = "Set Size";
+
+/* Class = "UIButton"; normalTitle = "Add a Globe"; ObjectID = "Rwi-xC-IKg"; */
+"Rwi-xC-IKg.normalTitle" = "Add a Globe";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "T21-hP-hmH"; */
+"T21-hP-hmH.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Smart Globe"; ObjectID = "Tgo-pO-VNv"; */
+"Tgo-pO-VNv.text" = "Smart Globe";
+
+/* Class = "UILabel"; text = "Also you can change a size of your globe by pressing \"Set Size\" button"; ObjectID = "XSf-ut-CkJ"; */
+"XSf-ut-CkJ.text" = "Also you can change a size of your globe by pressing \"Set Size\" button";
+
+/* Class = "UILabel"; text = "Smart Globe"; ObjectID = "fNS-7c-7nl"; */
+"fNS-7c-7nl.text" = "Smart Globe";
+
+/* Class = "UILabel"; text = "Smart Globe"; ObjectID = "iKy-AG-dSU"; */
+"iKy-AG-dSU.text" = "Smart Globe";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "ioP-ch-aIS"; */
+"ioP-ch-aIS.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Big"; ObjectID = "vg8-Yy-Q0E"; */
+"vg8-Yy-Q0E.normalTitle" = "Big";
+
+/* Class = "UILabel"; text = "Explore a World in the most interesting way"; ObjectID = "yCS-bh-vIf"; */
+"yCS-bh-vIf.text" = "Explore a World in the most interesting way";
